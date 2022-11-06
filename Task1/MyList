@@ -1,6 +1,0 @@
-using Base;
- public static class MyList<T>{
-    public void HelloWorld(){
-        Console.WriteLine("Hello, World!")
-    }
- }
