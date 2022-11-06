@@ -1,0 +1,15 @@
+/home/dmyrych/Projects/OOP_Lab_6/bin/Debug/net6.0/OOP_Lab_6
+/home/dmyrych/Projects/OOP_Lab_6/bin/Debug/net6.0/OOP_Lab_6.deps.json
+/home/dmyrych/Projects/OOP_Lab_6/bin/Debug/net6.0/OOP_Lab_6.runtimeconfig.json
+/home/dmyrych/Projects/OOP_Lab_6/bin/Debug/net6.0/OOP_Lab_6.dll
+/home/dmyrych/Projects/OOP_Lab_6/bin/Debug/net6.0/OOP_Lab_6.pdb
+/home/dmyrych/Projects/OOP_Lab_6/obj/Debug/net6.0/OOP_Lab_6.csproj.AssemblyReference.cache
+/home/dmyrych/Projects/OOP_Lab_6/obj/Debug/net6.0/OOP_Lab_6.GeneratedMSBuildEditorConfig.editorconfig
+/home/dmyrych/Projects/OOP_Lab_6/obj/Debug/net6.0/OOP_Lab_6.AssemblyInfoInputs.cache
+/home/dmyrych/Projects/OOP_Lab_6/obj/Debug/net6.0/OOP_Lab_6.AssemblyInfo.cs
+/home/dmyrych/Projects/OOP_Lab_6/obj/Debug/net6.0/OOP_Lab_6.csproj.CoreCompileInputs.cache
+/home/dmyrych/Projects/OOP_Lab_6/obj/Debug/net6.0/OOP_Lab_6.dll
+/home/dmyrych/Projects/OOP_Lab_6/obj/Debug/net6.0/refint/OOP_Lab_6.dll
+/home/dmyrych/Projects/OOP_Lab_6/obj/Debug/net6.0/OOP_Lab_6.pdb
+/home/dmyrych/Projects/OOP_Lab_6/obj/Debug/net6.0/OOP_Lab_6.genruntimeconfig.cache
+/home/dmyrych/Projects/OOP_Lab_6/obj/Debug/net6.0/ref/OOP_Lab_6.dll
